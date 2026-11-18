@@ -1,0 +1,33 @@
+{
+  "image": "zhixun-harness:sdk-v2-20261117t141636003303z",
+  "image_id": "sha256:8ed090a972c9e6c3bacdb39af27367803f47d169b82acda6c4089dc2e5d413f4",
+  "platform_image_id": "sha256:2740215583523d12ce3c634ab2aead4d33e4137176e2b25debc3adf0723f1c69",
+  "describe": {
+    "protocol": "contest.harness.workspace.v2",
+    "model_access": "host_gateway_rpc",
+    "sdk": "contest_harness",
+    "sdk_version": "1.0.2",
+    "tasks": [
+      "classification",
+      "regression"
+    ]
+  },
+  "archive_sha256": "sha256:5c3f5ff5e1328cc8e95255cdca7be5adfbd81b1d30768d6a34e718224fb77df7",
+  "archive_bytes": 151178240,
+  "base_image": {
+    "image": "python:3.12-slim-bookworm",
+    "image_id": "sha256:d74d9dd5ab934f67043449c192caa843f72803e177c2e3fac5c4682c598d42b3",
+    "config_digest": "sha256:313cf8f190a1abab00472c1f0c950c10486c22114bcd8aef2a8198fb587a6d18",
+    "storage_manifest_digest": "sha256:d74d9dd5ab934f67043449c192caa843f72803e177c2e3fac5c4682c598d42b3",
+    "manifest_digest": "sha256:0f086103b026048cc50cb5da25ec435c023c5241a83fc44daea593377abc61c4",
+    "archive_sha256": "sha256:61de4a71c80d536a47ab3a1fad6058445b03e16f48db340b26e63869741da470"
+  },
+  "dependencies": {
+    "numpy": "1.26.4",
+    "contest_harness": "1.0.2"
+  },
+  "linux_official_sdk_tests_passed": 15,
+  "linux_participant_tests_passed": 8,
+  "official_platform_validated": false,
+  "platform_actions_performed": false
+}

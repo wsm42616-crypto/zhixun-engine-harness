@@ -1,0 +1,20 @@
+{
+  "version": "1.0.2",
+  "protocol": "contest.harness.workspace.v2",
+  "provided_archive_sha256": "c676c8beeef69cece9cbec5a633d05dbb9832eb22b6f761913f2315bd1f85133",
+  "files": {
+    "contest_harness/__init__.py": "eb610b6a10989bb099b5d8ff17f6fa21fbe0ec74d1755fdd49c8334b7b69d390",
+    "contest_harness/__main__.py": "f7823547b47bbcd01220fb07ed71a2f0555e5ad5f5f3862cf2fbd149e3002f3a",
+    "contest_harness/cli.py": "989160095a767588eac1bedb599369a23b631396b0d7b8053d9fbefdad64ed7e",
+    "contest_harness/data.py": "b4337be78fd48154702ec34520448185c670979f6de2caeb37b0b358694b5508",
+    "contest_harness/errors.py": "34bade6079dd8ee3224313d4a6808f13598d7fe18dd0fe99c2a56aa375a5ea7a",
+    "contest_harness/predict.py": "2d6a4d5f5a5d41ed3103e7f2783bfd27c0e47581379e1d7390a09c5c28311df5",
+    "contest_harness/protocol.py": "3ecf411165153d51302f91acb5a5f9436916b1885fb984873bc42340e1c6452f",
+    "contest_harness/round.py": "2d9f359e99627b8ce2b83bf0cbce9ea0992f4a0edb5c21d5f03f1692f1d385da",
+    "contest_harness/transport.py": "ad44a367c6b75b2b0ea067dcdd9432834cb5dd3c739d994a62ec86dcb19888f8",
+    "HARNESS_SDK.md": "0433a8a3c7b6641985b1abf90c9ce5de349b1b3efdad1c6494ed6680c9ebc99c",
+    "pyproject.toml": "9759ac66ce9e47cb6d6ae7ade793b132709c7ae0452d4723aedbcb9f2af1ab9f",
+    "README.md": "6b575e9236d11119ed3b5bddfe4c210f1475534d93fe380e558c06dd1338c73c"
+  },
+  "unmodified_sdk": true
+}

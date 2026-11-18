@@ -1,0 +1,85 @@
+{
+  "unmodified_industrial_code": true,
+  "files": {
+    "__init__.py": {
+      "sha256": "20eab724fa7ee977962defc61ff8f2324e81cc26f72093e18a6e5fb5a03d1b8d",
+      "source": "outputs/harness/__init__.py"
+    },
+    "baseline_a/__init__.py": {
+      "sha256": "3363d6112a78e5b4de3508da13e543708fc6a9019c65f3c8bcecb5178a321d7a",
+      "source": "outputs/harness/baseline_a/__init__.py"
+    },
+    "baseline_a/configs/A.json": {
+      "sha256": "a358949911cfcb38b5d483acad41843243fe264b26f0470e1c64c495da4ab202",
+      "source": "outputs/harness/baseline_a/configs/A.json"
+    },
+    "baseline_a/data.py": {
+      "sha256": "6099e312829ac3aaf48209ec1f618532c4a8552fedf73f09cf31c8876261db65",
+      "source": "outputs/harness/baseline_a/data.py"
+    },
+    "baseline_a/model.py": {
+      "sha256": "325026d80747eb36f39c8df1be02b640ae21b3cd082827c66aacbdf273dd61c5",
+      "source": "outputs/harness/baseline_a/model.py"
+    },
+    "baseline_a/predict.py": {
+      "sha256": "80e6787cd862dfefd85cd6bfcd73b5577dd90e202dd3d5bb9f18a52761807452",
+      "source": "outputs/harness/baseline_a/predict.py"
+    },
+    "baseline_a/train.py": {
+      "sha256": "5fc1c4fc99dadd1ed316f2dd763b90057c09561ff689d7f8c91edb80a3aee07f",
+      "source": "outputs/harness/baseline_a/train.py"
+    },
+    "baseline_b/__init__.py": {
+      "sha256": "3363d6112a78e5b4de3508da13e543708fc6a9019c65f3c8bcecb5178a321d7a",
+      "source": "outputs/harness/baseline_b/__init__.py"
+    },
+    "baseline_b/configs/B.json": {
+      "sha256": "ecbee0f2dd0a6ec9b262f1fd830f8031b79b202cebfd56c12e47f10b19c87b06",
+      "source": "outputs/harness/baseline_b/configs/B.json"
+    },
+    "baseline_b/data.py": {
+      "sha256": "6099e312829ac3aaf48209ec1f618532c4a8552fedf73f09cf31c8876261db65",
+      "source": "outputs/harness/baseline_b/data.py"
+    },
+    "baseline_b/model.py": {
+      "sha256": "325026d80747eb36f39c8df1be02b640ae21b3cd082827c66aacbdf273dd61c5",
+      "source": "outputs/harness/baseline_b/model.py"
+    },
+    "baseline_b/predict.py": {
+      "sha256": "80e6787cd862dfefd85cd6bfcd73b5577dd90e202dd3d5bb9f18a52761807452",
+      "source": "outputs/harness/baseline_b/predict.py"
+    },
+    "baseline_b/train.py": {
+      "sha256": "806b59ee6058a90d3e99feaccbbc24f7ed6c9a54cbf07b26a927ab48e48e1a24",
+      "source": "outputs/harness/baseline_b/train.py"
+    },
+    "baseline_c/__init__.py": {
+      "sha256": "3363d6112a78e5b4de3508da13e543708fc6a9019c65f3c8bcecb5178a321d7a",
+      "source": "outputs/harness/baseline_c/__init__.py"
+    },
+    "baseline_c/configs/C.json": {
+      "sha256": "bbdfc7cac9cea81fe578db9ab1e1b398140723bb1c70353d9a9de4544187f4d3",
+      "source": "outputs/harness/baseline_c/configs/C.json"
+    },
+    "baseline_c/data.py": {
+      "sha256": "6099e312829ac3aaf48209ec1f618532c4a8552fedf73f09cf31c8876261db65",
+      "source": "outputs/harness/baseline_c/data.py"
+    },
+    "baseline_c/model.py": {
+      "sha256": "325026d80747eb36f39c8df1be02b640ae21b3cd082827c66aacbdf273dd61c5",
+      "source": "outputs/harness/baseline_c/model.py"
+    },
+    "baseline_c/predict.py": {
+      "sha256": "80e6787cd862dfefd85cd6bfcd73b5577dd90e202dd3d5bb9f18a52761807452",
+      "source": "outputs/harness/baseline_c/predict.py"
+    },
+    "baseline_c/train.py": {
+      "sha256": "c1e99c3ed88aab93bd02ee83eb7ad87aa0684bd8a81e3b8620233163dfc6c096",
+      "source": "outputs/harness/baseline_c/train.py"
+    },
+    "tasks.py": {
+      "sha256": "ec93dca1f83a1a2cb60fd8cc1bb47d44b5de047ef85814890b54a2edb0a8f774",
+      "source": "outputs/harness/tasks.py"
+    }
+  }
+}
